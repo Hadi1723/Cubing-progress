@@ -2,6 +2,6 @@
 Welcome to my repository.
 
 You will see my progress in solving:
-- [] pyramix duo
-- [] pyramix
+- [x] pyramix duo
+- [x] pyramix
 - [] rubix cube

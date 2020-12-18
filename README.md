@@ -1,10 +1,12 @@
-# Cubing-progress
-Welcome to my repository.
+# Welcome to my repository.
 
+### Expectations
 You will see my progress in solving:
-- [x] pyramix duo
-- [x] pyramix
-- [] rubix cube
+1. Pyraminx Duo
+2. Pyraminx
+3. Rubik's Cube
+
+###### Pyramix duo
 
 average time : 1: 28: 36
 

@@ -155,3 +155,16 @@ You will see my progress in solving:
     
     _Average time: 40.63_
     
+ ###### Rubik's Cube
+* _What did I learn:_
+  * [I learned how to solve it **(December 17)**](https://www.youtube.com/watch?v=rZiDvDGHfe8)
+     
+* _Average Times_:
+  * December 17:
+    1. 15:25.41
+    2. 18:47.96
+    3. 23:01.69
+    4. 20:14.36
+    5. 20:02.31
+    
+    _Average time: 19:41.54_ 

@@ -80,7 +80,7 @@ You will see my progress in solving:
     
     _Average time: 6.55_
  
- ###### Pyraminx
+###### Pyraminx
 * _What did I learn:_
   * [I learned how to solve it **(December 10)**](https://www.youtube.com/watch?v=rcKo9IZXm6Y)
   * [I learned about all the parts of pyraminx, allowing me to solve efficiently). **(December 11)**](https://www.youtube.com/watch?v=2H0FUvaaUsI)
@@ -154,8 +154,34 @@ You will see my progress in solving:
     12. 37.21
     
     _Average time: 40.63_
+
+* _Validated Solves_:
+  * December 8:
+    1. 1:30.02
+    2. 1:05.22
+    3. 45.77
+    4. 1:08.15
+    5. 1:28.93
     
- ###### Rubik's Cube
+    _Average time: 1:14.10_ 
+  * December 10:
+    1. 56.13
+    2. 31.45
+    3. 1:58.60
+    4. 26.78
+    5. 43.44
+    
+    _Average time: 43.67_
+  * December 18:
+    1. 1:15.90
+    2. 1:13.46
+    3. 50.12
+    4. 55.28
+    5. 47.97
+    
+    _Average time: 59.62_
+    
+###### Rubik's Cube
 * _What did I learn:_
   * [I learned how to solve it **(December 17)**](https://www.youtube.com/watch?v=rZiDvDGHfe8)
      

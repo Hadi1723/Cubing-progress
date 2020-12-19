@@ -202,22 +202,22 @@ You will see my progress in solving:
     _Average time: 19:41.54_ 
     
 ## Sources
-[Burton, Bob. "Bob Burton Pyraminx Method." Bob Burton cubewhiz.com, 2015, www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new. Accessed 17 Dec. 2020.](www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new)  
+[Burton, Bob. "Bob Burton Pyraminx Method." Bob Burton cubewhiz.com, 2015, www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new. Accessed 17 Dec. 2020.](http://www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new)  
 
-[CUBINGTIME. cubingtime.com/timer. Accessed 17 Dec. 2020.](cubingtime.com/timer)  
+[CUBINGTIME. cubingtime.com/timer. Accessed 17 Dec. 2020.](https://cubingtime.com/timer)  
 
-[EASIEST WAY TO SOLVE THE PYRAMINX PUZZLE [HIGH QUALITY]. 2017. Youtube, www.youtube.com/watch?v=2H0FUvaaUsI. Accessed 17 Dec. 2020.](www.youtube.com/watch?v=2H0FUvaaUsI)
+[EASIEST WAY TO SOLVE THE PYRAMINX PUZZLE [HIGH QUALITY]. 2017. Youtube, www.youtube.com/watch?v=2H0FUvaaUsI. Accessed 17 Dec. 2020.](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 
-[How to Solve the Pyraminx Duo [Intermediate Method]. 2015. Youtube, www.youtube.com/watch?v=xRBGC4Bxv1w. Accessed 17 Dec. 2020.](www.youtube.com/watch?v=xRBGC4Bxv1w)
+[How to Solve the Pyraminx Duo [Intermediate Method]. 2015. Youtube, www.youtube.com/watch?v=xRBGC4Bxv1w. Accessed 17 Dec. 2020.](https://www.youtube.com/watch?v=xRBGC4Bxv1w)
 
-[McFadden, Christopher. "How To Solve a Rubik's Cube by Using Algorithms." INTERESTING ENGINEERING, 22 Oct. 2020, interestingengineering.com/how-to-solve-a-rubiks-cube-by-using-algorithms. Accessed 17 Dec. 2020.](interestingengineering.com/how-to-solve-a-rubiks-cube-by-using-algorithms)  
+[McFadden, Christopher. "How To Solve a Rubik's Cube by Using Algorithms." INTERESTING ENGINEERING, 22 Oct. 2020, interestingengineering.com/how-to-solve-a-rubiks-cube-by-using-algorithms. Accessed 17 Dec. 2020.](https://interestingengineering.com/how-to-solve-a-rubiks-cube-by-using-algorithms)  
 
-["Online-Stopwatch." Online-Stopwatch, www.online-stopwatch.com/. Accessed 17 Dec. 2020.](www.online-stopwatch.com)  
+["Online-Stopwatch." Online-Stopwatch, www.online-stopwatch.com/. Accessed 17 Dec. 2020.](https://www.online-stopwatch.com/)  
 
-[Pyraminx Duo Advanced Method Tutorial _Optimal Moves_. 2016. Youtube, www.youtube.com/watch?v=P-Zt7GEyYuE. Accessed 17 Dec. 2020.](www.youtube.com/watch?v=P-Zt7GEyYuE)  
+[Pyraminx Duo Advanced Method Tutorial _Optimal Moves_. 2016. Youtube, www.youtube.com/watch?v=P-Zt7GEyYuE. Accessed 17 Dec. 2020.](https://www.youtube.com/watch?v=P-Zt7GEyYuE)  
 
-[Rubik's Cube: How Commutators Work! 2019. Youtube, www.youtube.com/watch?v=rZiDvDGHfe8. Accessed 17 Dec. 2020.](www.youtube.com/watch?v=rZiDvDGHfe8)  
+[Rubik's Cube: How Commutators Work! 2019. Youtube, www.youtube.com/watch?v=rZiDvDGHfe8. Accessed 17 Dec. 2020.](https://www.youtube.com/watch?v=rZiDvDGHfe8)  
 
-[Solve a Pyraminx With Only 1 Algorithm. 2017. Youtube, www.youtube.com/watch?v=rcKo9IZXm6Y. Accessed 17 Dec. 2020.](www.youtube.com/watch?v=rcKo9IZXm6Y)  
+[Solve a Pyraminx With Only 1 Algorithm. 2017. Youtube, www.youtube.com/watch?v=rcKo9IZXm6Y. Accessed 17 Dec. 2020.](https://www.youtube.com/watch?v=rcKo9IZXm6Y)  
 
-[Terzich, Luke. "How to Solve a Pyraminx." KewbzUK, 13 Oct. 2019, www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx. Accessed 17 Dec. 2020.](www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx)  
+[Terzich, Luke. "How to Solve a Pyraminx." KewbzUK, 13 Oct. 2019, www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx. Accessed 17 Dec. 2020.](https://www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx)  

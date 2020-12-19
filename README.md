@@ -39,7 +39,7 @@ You will see my progress in solving:
     24. 7.14
     25. 15.26
     
-    _Average time: 9.53_ 
+    _Average time: 11.33_ 
   * December 11:
     1. 9.45
     2. 7.25
@@ -78,12 +78,12 @@ You will see my progress in solving:
     11. 8.13
     12. 7.32
     
-    _Average time: 5.47_
+    _Average time: 6.55_
  
  ###### Pyraminx
 * _What did I learn:_
   * [I learned how to solve it **(December 10)**](https://www.youtube.com/watch?v=rcKo9IZXm6Y)
-  * [I learned about all the parts of pyraminx, allowing me to solve efficiently)**_4_** turns. **(December 11)**](https://www.youtube.com/watch?v=2H0FUvaaUsI)
+  * [I learned about all the parts of pyraminx, allowing me to solve efficiently). **(December 11)**](https://www.youtube.com/watch?v=2H0FUvaaUsI)
   * I learned to observe the pyraminx properly before trying to solve to avoid mistakes.
      
 * _Average Times_:
@@ -130,7 +130,7 @@ You will see my progress in solving:
     24. 58.61
     25. 53.13
     
-    _Average time: 52.26_
+    _Average time: 52.41_
   * December 15:
     1. 47.26
     2. 39.25
@@ -153,5 +153,5 @@ You will see my progress in solving:
     11. 21.20
     12. 37.21
     
-    _Average time: 36.24_
+    _Average time: 40.63_
     

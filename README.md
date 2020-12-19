@@ -7,6 +7,8 @@ You will see my progress in solving:
 3. Rubik's Cube
 
 ###### Pyraminx Duo
+![What does it look like?](https://zak-zak.ru/images/thumbnails/867/709/detailed/35/golovolomka-fanxin-pyraminx-duo-color-35065-35065_cckm-ly.jpg)
+
 * _What did I learn:_
   * [I learned how to solve it **(December 10)**](https://www.youtube.com/watch?v=xB9OFNyi-Uk)
   * [I learned how to solve it **_4_** turns. **(December 17)**](https://www.youtube.com/watch?v=P-Zt7GEyYuE)  
@@ -81,6 +83,8 @@ You will see my progress in solving:
     _Average time: 6.55_
  
 ###### Pyraminx
+![What does it look like?](https://img.fruugo.com/product/4/04/93772044_max.jpg)
+
 * _What did I learn:_
   * [I learned how to solve it **(December 10)**](https://www.youtube.com/watch?v=rcKo9IZXm6Y)
   * [I learned about all the parts of pyraminx, allowing me to solve efficiently). **(December 11)**](https://www.youtube.com/watch?v=2H0FUvaaUsI)
@@ -182,6 +186,8 @@ You will see my progress in solving:
     _Average time: 59.62_
     
 ###### Rubik's Cube
+![What does it look like?](https://images-na.ssl-images-amazon.com/images/I/81p8uhnIHIL._AC_SX425_.jpg)
+
 * _What did I learn:_
   * [I learned how to solve it **(December 17)**](https://www.youtube.com/watch?v=rZiDvDGHfe8)
      

@@ -4,7 +4,7 @@
 You will see my progress in solving:
 1. Pyraminx Duo
 2. Pyraminx
-3. Rubik's Cube
+3. Rubik's Cube (3 x 3)
 
 ###### Pyraminx Duo
 ![What does it look like?](https://zak-zak.ru/images/thumbnails/867/709/detailed/35/golovolomka-fanxin-pyraminx-duo-color-35065-35065_cckm-ly.jpg)
@@ -81,7 +81,10 @@ You will see my progress in solving:
     12. 7.32
     
     _Average time: 6.55_
- 
+* _Algorithms:_
+  * When all the corner-pieces are solved and **_A_** center-piece needs to be switched to the _right-face_, use the algorithm **"L, R, L', R'"**.
+  * When all the corner-pieces are solved and **_A_** center-piece needs to be switched to the _left-face_, use the algorithm **"R', L', R, L"**.
+  
 ###### Pyraminx
 ![What does it look like?](https://img.fruugo.com/product/4/04/93772044_max.jpg)
 
@@ -184,8 +187,15 @@ You will see my progress in solving:
     5. 47.97
     
     _Average time: 59.62_
-    
-###### Rubik's Cube
+
+* _Algorithms:_
+  * When you have two pieces (and for each piece their sides are in opposite positions), use the following algorithm ["L, R', L', R, U', R, U, R' "](https://www.youtube.com/watch?v=xIQtn2qazvg)
+  * This algorithm, ["R, U, R', U, R, U, R"](https://www.youtube.com/watch?v=xIQtn2qazvg) can be used when the bottom face of the pyraminx is solved, but the edge pieces for the remaining faces are in wrong positions (and must be shifted to the face on the left).
+  * This algorithm, ["R, U', R', U', R, U', R'"](https://www.youtube.com/watch?v=xIQtn2qazvg) can be used when the bottom face of the pyraminx is solved, but the edge pieces for the remaining faces are in wrong positions (and must be shifted to the face on the right).
+  * This algorithm, ["R, U', R'"](https://www.youtube.com/watch?v=2H0FUvaaUsI),  can be used when 3 Edge-pieces are on the Left-face.
+  * This algorithm, ["L', U, L'"](https://www.youtube.com/watch?v=2H0FUvaaUsI),  can be used when 3 Edge-pieces are on the Right-face.
+  
+###### Rubik's Cube (3 x 3)
 ![What does it look like?](https://images-na.ssl-images-amazon.com/images/I/81p8uhnIHIL._AC_SX425_.jpg)
 
 * _What did I learn:_
@@ -200,7 +210,11 @@ You will see my progress in solving:
     5. 20:02.31
     
     _Average time: 19:41.54_ 
-    
+* _Algorithms:_
+  * [The following algorithms are used when _solving the corners in the top layer](https://medium.com/@venkatesh20pillay/how-to-solve-a-3x3-rubiks-cube-beginners-method-6ae65d8b721)_
+    1. D’ R’ D R
+    2. D F D’ F’
+  
 ## Sources
 [Burton, Bob. "Bob Burton Pyraminx Method." Bob Burton cubewhiz.com, 2015, www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new. Accessed 17 Dec. 2020.](http://www.cubewhiz.com/pyraminx.php#:~:text=Bob%20Burton%20Pyraminx%20Method.%20This%20is%20the%20method,Pyraminx%20using%20this%20method%20without%20learning%20anything%20new)  
 
